@@ -11,7 +11,7 @@ Aim Shot
 ### 제한시간안에 타켓팅을 맞추면서 점수가 올라가는 형식
 장르: FPS
 ## 2.게임예시
-
+![307790c0795821878acf899388504c9daf4858d39be58519ae07fbadaa166e5c8066827136a98b6ccbee9aa6dd052411e8e1dd4874738c0faf8010b9b0ed5c21e11a9172e0f95e0f5643dfdac9e423f680c991ae14c5de42af1527ec28b18fd5723050d4e6a754bc095fd5efd9](https://user-images.githubusercontent.com/101155037/164952756-ab756784-ccd7-4fe7-a1e2-d4575d64d1ad.jpg)
 ## 3.오늘의 할당치
 ### 2주차: 캐릭터를 움직이게 하는것으로 목표(달성)
 ### 3주차: 점프 근접공격 구현(달성)
