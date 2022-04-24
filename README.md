@@ -1,8 +1,10 @@
 # 게임제목
 Aim Shot
 ## 목차
-1.게임내용
+[1.게임내용 ](#1.게임내용)
+
 2.게임예시
+
 3.오늘의 할당치
 ## 1.게임내용
 ### FPS게임을 할때 조준점을 적에게 더빠르게 맞출려고 하는 연습
@@ -11,7 +13,12 @@ Aim Shot
 ### 제한시간안에 타켓팅을 맞추면서 점수가 올라가는 형식
 장르: FPS
 ## 2.게임예시
-![307790c0795821878acf899388504c9daf4858d39be58519ae07fbadaa166e5c8066827136a98b6ccbee9aa6dd052411e8e1dd4874738c0faf8010b9b0ed5c21e11a9172e0f95e0f5643dfdac9e423f680c991ae14c5de42af1527ec28b18fd5723050d4e6a754bc095fd5efd9](https://user-images.githubusercontent.com/101155037/164952756-ab756784-ccd7-4fe7-a1e2-d4575d64d1ad.jpg)
+
+
+
+<img src="https://user-images.githubusercontent.com/101155037/164952756-ab756784-ccd7-4fe7-a1e2-d4575d64d1ad.jpg" width="300" height="400"/>  <img src="https://user-images.githubusercontent.com/101155037/164952914-99004f84-d842-4d00-96fe-93e2e6c46fb3.gif" width="300" height="300"/>
+### 다크소울        &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 에임렙                                                           
+
 ## 3.오늘의 할당치
 ### 2주차: 캐릭터를 움직이게 하는것으로 목표(달성)
 ### 3주차: 점프 근접공격 구현(달성)
