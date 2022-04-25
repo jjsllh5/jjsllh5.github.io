@@ -1,16 +1,16 @@
 # 게임제목
 Aim Shot
 ## 목차
-[1.게임내용 ](#1.게임-내용)
+[1.게임내용 ](#1.게임내용)
 
-[2.게임예시 ](#2.게임-예시)
+[2.게임예시 ](#2.게임예시)
 
 [3.오늘의진행도 ](#3.오늘의-진행도)
 
 
 
 ---
-## 1.게임 내용
+## 1.게임내용
 ### 게임이름: Aim Shot
 ### 게임플랫폼: 윈도우 데스크톱
 ### 게임특징:제한시간안에 적을 맞추면서 점수가 올라가는 형식이면서 그 점수로 탄약, 회복을 보급하는 형식 
@@ -25,7 +25,7 @@ Aim Shot
 ---
 
 
-## 2.게임 예시
+## 2.게임예시
 
 <img src="https://user-images.githubusercontent.com/101155037/164952756-ab756784-ccd7-4fe7-a1e2-d4575d64d1ad.jpg" width="300" height="400"/>  <img src="https://user-images.githubusercontent.com/101155037/164952914-99004f84-d842-4d00-96fe-93e2e6c46fb3.gif" width="300" height="300"/>
 ### 다크소울        &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 에임렙   ---                                                        
