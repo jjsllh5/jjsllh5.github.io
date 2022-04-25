@@ -28,7 +28,9 @@
 ## 2.게임예시
 
 <img src="https://user-images.githubusercontent.com/101155037/164952756-ab756784-ccd7-4fe7-a1e2-d4575d64d1ad.jpg" width="300" height="400"/>  <img src="https://user-images.githubusercontent.com/101155037/164952914-99004f84-d842-4d00-96fe-93e2e6c46fb3.gif" width="300" height="300"/>
-### 다크소울        &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 에임렙   ---                                                        
+### 다크소울        &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;에임렙
+
+---                                                        
 
 ## 3.오늘의 진행도
 ### 2주차: 캐릭터를 움직이게 하는것으로 목표
