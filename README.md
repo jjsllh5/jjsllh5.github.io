@@ -10,7 +10,7 @@
 
 [2.게임예시 ](#2.게임예시)
 
-[3.캐릭터 ](#3.캐릭터)
+[3.캐릭터 ](##3.캐릭터)
 
 [4.오늘의진행도 ](#4.오늘의-진행도)
 
@@ -33,7 +33,7 @@
 <br/><br/><br/>
 
 
-## 2.게임예시
+##2.게임예시
 
 <img src="https://user-images.githubusercontent.com/101155037/164952756-ab756784-ccd7-4fe7-a1e2-d4575d64d1ad.jpg" width="300" height="400"/>  <img src="https://user-images.githubusercontent.com/101155037/164952914-99004f84-d842-4d00-96fe-93e2e6c46fb3.gif" width="300" height="300"/>
 ### 다크소울        &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;에임렙
@@ -42,7 +42,7 @@
 <br/><br/><br/>
                                                       
 
-## 3.캐릭터
+##3.캐릭터
 
 <br/>
 
