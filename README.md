@@ -14,7 +14,6 @@
 
 [4.오늘의진행도 ](#4.오늘의-진행도)
 
-[Stack](#stack-program)
 
 
 
@@ -89,7 +88,7 @@
 <br/><br/><br/>
 
 
-#Stack Program
+
 
 
 ## 4.게임진행도
